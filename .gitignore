@@ -1,3 +1,7 @@
 .DS_Store
 *.swp
 *~
+
+# 敏感信息文件
+SECRET.md
+**/SECRET.md
