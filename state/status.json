@@ -5,8 +5,9 @@
     "pending_count": 2
   },
   "xiaolongxia": {
-    "last_result_id": "t002",
-    "completed_count": 1
+    "last_result_id": "t001",
+    "completed_count": 2,
+    "last_task_id": "t001"
   },
   "version": "1.0"
 }
