@@ -1,1 +1,2 @@
 {"id":"t000","status":"ready","message":"小龙虾就绪，等待任务","time":"20260419T1715"}
+{"id":"t002","status":"done","message":"创建Linux定时同步脚本套件：config.sh/sync_daemon.sh/check_tasks.sh/complete_task.sh/notify.sh/install.sh，含systemd unit文件、日志轮转、锁文件并发控制、dry-run模式、crontab安装","time":"20260419T1923","outputs":"scripts/config.sh,scripts/sync_daemon.sh,scripts/check_tasks.sh,scripts/complete_task.sh,scripts/notify.sh,scripts/install.sh,systemd/xiaoman-sync.service,systemd/xiaoman-sync.timer"}

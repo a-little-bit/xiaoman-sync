@@ -1,12 +1,12 @@
 {
-  "last_sync": "20260419T1808",
+  "last_sync": "20260419T1923",
   "xiaoman": {
     "last_task_id": "t002",
     "pending_count": 2
   },
   "xiaolongxia": {
-    "last_result_id": "t000",
-    "completed_count": 0
+    "last_result_id": "t002",
+    "completed_count": 1
   },
   "version": "1.0"
 }
