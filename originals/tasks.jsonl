@@ -1,1 +1,2 @@
 {"id":"t000","p":0,"type":"init","title":"初始化协作仓库","created":"20260419T1715","status":"done","hash":"sha256:init"}
+{"id":"t001","p":1,"type":"research","title":"奔走夜市需求深度调研","deadline":"20260420T1800","created":"20260419T1735","detail":"inbox/xiaoman/detail/t001.md","hash":"sha256:t001"}
